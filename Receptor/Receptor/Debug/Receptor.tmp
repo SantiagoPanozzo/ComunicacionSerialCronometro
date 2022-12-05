@@ -1,0 +1,52 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\Bastet\Projects\ATmega\Proyecto\Receptor\Receptor\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Bastet\Projects\ATmega\Proyecto\Receptor\Receptor\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328Pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Bastet\Projects\ATmega\Proyecto\Receptor\Receptor\Debug\Receptor.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Receptor.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Receptor.map</FILE>
+  <FILE>Receptor.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <setup><FILE>C:\Users\Bastet\Projects\ATmega\Proyecto\Receptor\Receptor\main.asm</FILE><LINE>17</LINE></setup>
+  <frame><FILE>C:\Users\Bastet\Projects\ATmega\Proyecto\Receptor\Receptor\main.asm</FILE><LINE>63</LINE></frame>
+  <RX><FILE>C:\Users\Bastet\Projects\ATmega\Proyecto\Receptor\Receptor\main.asm</FILE><LINE>85</LINE></RX>
+  <apagar><FILE>C:\Users\Bastet\Projects\ATmega\Proyecto\Receptor\Receptor\main.asm</FILE><LINE>38</LINE></apagar>
+  <sacanum><FILE>C:\Users\Bastet\Projects\ATmega\Proyecto\Receptor\Receptor\main.asm</FILE><LINE>201</LINE></sacanum>
+  <start><FILE>C:\Users\Bastet\Projects\ATmega\Proyecto\Receptor\Receptor\main.asm</FILE><LINE>60</LINE></start>
+  <getnumeros><FILE>C:\Users\Bastet\Projects\ATmega\Proyecto\Receptor\Receptor\main.asm</FILE><LINE>142</LINE></getnumeros>
+  <guardarNum1><FILE>C:\Users\Bastet\Projects\ATmega\Proyecto\Receptor\Receptor\main.asm</FILE><LINE>121</LINE></guardarNum1>
+  <guardarNum2><FILE>C:\Users\Bastet\Projects\ATmega\Proyecto\Receptor\Receptor\main.asm</FILE><LINE>126</LINE></guardarNum2>
+  <guardarNum3><FILE>C:\Users\Bastet\Projects\ATmega\Proyecto\Receptor\Receptor\main.asm</FILE><LINE>133</LINE></guardarNum3>
+  <guardarNum4><FILE>C:\Users\Bastet\Projects\ATmega\Proyecto\Receptor\Receptor\main.asm</FILE><LINE>138</LINE></guardarNum4>
+  <cero><FILE>C:\Users\Bastet\Projects\ATmega\Proyecto\Receptor\Receptor\main.asm</FILE><LINE>166</LINE></cero>
+  <uno><FILE>C:\Users\Bastet\Projects\ATmega\Proyecto\Receptor\Receptor\main.asm</FILE><LINE>169</LINE></uno>
+  <dos><FILE>C:\Users\Bastet\Projects\ATmega\Proyecto\Receptor\Receptor\main.asm</FILE><LINE>172</LINE></dos>
+  <tres><FILE>C:\Users\Bastet\Projects\ATmega\Proyecto\Receptor\Receptor\main.asm</FILE><LINE>175</LINE></tres>
+  <cuatro><FILE>C:\Users\Bastet\Projects\ATmega\Proyecto\Receptor\Receptor\main.asm</FILE><LINE>178</LINE></cuatro>
+  <cinco><FILE>C:\Users\Bastet\Projects\ATmega\Proyecto\Receptor\Receptor\main.asm</FILE><LINE>181</LINE></cinco>
+  <seis><FILE>C:\Users\Bastet\Projects\ATmega\Proyecto\Receptor\Receptor\main.asm</FILE><LINE>184</LINE></seis>
+  <siete><FILE>C:\Users\Bastet\Projects\ATmega\Proyecto\Receptor\Receptor\main.asm</FILE><LINE>187</LINE></siete>
+  <ocho><FILE>C:\Users\Bastet\Projects\ATmega\Proyecto\Receptor\Receptor\main.asm</FILE><LINE>190</LINE></ocho>
+  <nueve><FILE>C:\Users\Bastet\Projects\ATmega\Proyecto\Receptor\Receptor\main.asm</FILE><LINE>193</LINE></nueve>
+  <fin><FILE>C:\Users\Bastet\Projects\ATmega\Proyecto\Receptor\Receptor\main.asm</FILE><LINE>163</LINE></fin>
+  <dato_serie><FILE>C:\Users\Bastet\Projects\ATmega\Proyecto\Receptor\Receptor\main.asm</FILE><LINE>209</LINE></dato_serie>
+  <loop_dato1><FILE>C:\Users\Bastet\Projects\ATmega\Proyecto\Receptor\Receptor\main.asm</FILE><LINE>211</LINE></loop_dato1>
+  <loop_dato2><FILE>C:\Users\Bastet\Projects\ATmega\Proyecto\Receptor\Receptor\main.asm</FILE><LINE>217</LINE></loop_dato2>
+  <loop_dato3><FILE>C:\Users\Bastet\Projects\ATmega\Proyecto\Receptor\Receptor\main.asm</FILE><LINE>219</LINE></loop_dato3>
+ </LABELS>
+</ASSEMBLER_INFO>

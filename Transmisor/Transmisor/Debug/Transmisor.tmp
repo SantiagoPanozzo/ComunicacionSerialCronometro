@@ -1,0 +1,47 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\Bastet\Projects\ATmega\Proyecto\Transmisor\Transmisor\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Bastet\Projects\ATmega\Proyecto\Transmisor\Transmisor\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328Pdef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Bastet\Projects\ATmega\Proyecto\Transmisor\Transmisor\Debug\Transmisor.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Transmisor.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Transmisor.map</FILE>
+  <FILE>Transmisor.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <start><FILE>C:\Users\Bastet\Projects\ATmega\Proyecto\Transmisor\Transmisor\main.asm</FILE><LINE>18</LINE></start>
+  <interrupt><FILE>C:\Users\Bastet\Projects\ATmega\Proyecto\Transmisor\Transmisor\main.asm</FILE><LINE>381</LINE></interrupt>
+  <envio><FILE>C:\Users\Bastet\Projects\ATmega\Proyecto\Transmisor\Transmisor\main.asm</FILE><LINE>367</LINE></envio>
+  <enviocompleto><FILE>C:\Users\Bastet\Projects\ATmega\Proyecto\Transmisor\Transmisor\main.asm</FILE><LINE>377</LINE></enviocompleto>
+  <config><FILE>C:\Users\Bastet\Projects\ATmega\Proyecto\Transmisor\Transmisor\main.asm</FILE><LINE>20</LINE></config>
+  <decenasMin><FILE>C:\Users\Bastet\Projects\ATmega\Proyecto\Transmisor\Transmisor\main.asm</FILE><LINE>80</LINE></decenasMin>
+  <unidadesMin><FILE>C:\Users\Bastet\Projects\ATmega\Proyecto\Transmisor\Transmisor\main.asm</FILE><LINE>126</LINE></unidadesMin>
+  <decenasSeg><FILE>C:\Users\Bastet\Projects\ATmega\Proyecto\Transmisor\Transmisor\main.asm</FILE><LINE>199</LINE></decenasSeg>
+  <unidadesSeg><FILE>C:\Users\Bastet\Projects\ATmega\Proyecto\Transmisor\Transmisor\main.asm</FILE><LINE>245</LINE></unidadesSeg>
+  <segundear><FILE>C:\Users\Bastet\Projects\ATmega\Proyecto\Transmisor\Transmisor\main.asm</FILE><LINE>318</LINE></segundear>
+  <resetarTimer><FILE>C:\Users\Bastet\Projects\ATmega\Proyecto\Transmisor\Transmisor\main.asm</FILE><LINE>362</LINE></resetarTimer>
+  <segloop><FILE>C:\Users\Bastet\Projects\ATmega\Proyecto\Transmisor\Transmisor\main.asm</FILE><LINE>327</LINE></segloop>
+  <num1><FILE>C:\Users\Bastet\Projects\ATmega\Proyecto\Transmisor\Transmisor\main.asm</FILE><LINE>331</LINE></num1>
+  <num2><FILE>C:\Users\Bastet\Projects\ATmega\Proyecto\Transmisor\Transmisor\main.asm</FILE><LINE>338</LINE></num2>
+  <num3><FILE>C:\Users\Bastet\Projects\ATmega\Proyecto\Transmisor\Transmisor\main.asm</FILE><LINE>345</LINE></num3>
+  <num4><FILE>C:\Users\Bastet\Projects\ATmega\Proyecto\Transmisor\Transmisor\main.asm</FILE><LINE>352</LINE></num4>
+  <waiteador><FILE>C:\Users\Bastet\Projects\ATmega\Proyecto\Transmisor\Transmisor\main.asm</FILE><LINE>357</LINE></waiteador>
+  <boton1><FILE>C:\Users\Bastet\Projects\ATmega\Proyecto\Transmisor\Transmisor\main.asm</FILE><LINE>393</LINE></boton1>
+  <boton3><FILE>C:\Users\Bastet\Projects\ATmega\Proyecto\Transmisor\Transmisor\main.asm</FILE><LINE>408</LINE></boton3>
+  <pause><FILE>C:\Users\Bastet\Projects\ATmega\Proyecto\Transmisor\Transmisor\main.asm</FILE><LINE>398</LINE></pause>
+ </LABELS>
+</ASSEMBLER_INFO>
